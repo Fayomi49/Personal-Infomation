@@ -27,5 +27,8 @@ img {
     max-width: 200px;
     border-radius: 10%;
 }
+a:visited{ 
+    color:#96c5df
+}
 
 
