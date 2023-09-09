@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+}
+body {
+    width: 80%;
+    
+    font-family: Arial, sans-serif;
+    background-color: black;
+   text-align: center;
+}
+
+h1 {
+    color: #d7d6d6;
+}
+
+h2 {
+    font-size: 24px;
+    color: #96c5df;
+}
+
+h3 {
+    font-size: 18px;
+    color: #d7d6d6;
+}
+
+img {
+    max-width: 200px;
+    border-radius: 10%;
+}
+
+
